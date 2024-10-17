@@ -1,0 +1,34 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Japan_002368.jpg</filename>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Manhole cover</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>249</xmin>
+			<ymin>273</ymin>
+			<xmax>312</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Manhole cover</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>409</ymin>
+			<xmax>487</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+	</annotation>

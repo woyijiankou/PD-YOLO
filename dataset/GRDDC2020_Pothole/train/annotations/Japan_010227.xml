@@ -1,0 +1,18 @@
+<annotation>
+  <folder>images</folder>
+  <filename>Japan_010227.jpg</filename>
+  <size>
+    <depth>3</depth>
+    <width>600</width>
+    <height>600</height>
+  </size>
+  <object>
+    <name>Manhole cover</name>
+    <bndbox>
+      <xmin>346</xmin>
+      <ymin>194</ymin>
+      <xmax>418</xmax>
+      <ymax>213</ymax>
+    </bndbox>
+  </object>
+</annotation>

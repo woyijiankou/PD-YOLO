@@ -1,0 +1,22 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Japan_011035.jpg</filename>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Manhole cover</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>463</xmin>
+			<ymin>208</ymin>
+			<xmax>525</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+	</annotation>

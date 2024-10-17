@@ -1,0 +1,34 @@
+<annotation>
+	<folder>images</folder>
+	<filename>India_007861.jpg</filename>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>442</ymin>
+			<xmax>262</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	<difficult>0</difficult></object>
+	<object>
+		<name>Pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>461</ymin>
+			<xmax>350</xmax>
+			<ymax>508</ymax>
+		</bndbox>
+	<difficult>0</difficult></object>
+</annotation>

@@ -1,0 +1,22 @@
+<annotation>
+	<folder>images</folder>
+	<filename>India_008338.jpg</filename>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Manhole cover</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>647</ymin>
+			<xmax>199</xmax>
+			<ymax>696</ymax>
+		</bndbox>
+	<difficult>0</difficult></object>
+	</annotation>

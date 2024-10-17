@@ -1,0 +1,36 @@
+<annotation>
+  <folder>images</folder>
+  <filename>Japan_000076.jpg</filename>
+  <size>
+    <depth>3</depth>
+    <width>600</width>
+    <height>600</height>
+  </size>
+  <object>
+    <name>Manhole cover</name>
+    <bndbox>
+      <xmin>97</xmin>
+      <ymin>125</ymin>
+      <xmax>176</xmax>
+      <ymax>147</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Manhole cover</name>
+    <bndbox>
+      <xmin>293</xmin>
+      <ymin>88</ymin>
+      <xmax>349</xmax>
+      <ymax>104</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Manhole cover</name>
+    <bndbox>
+      <xmin>0</xmin>
+      <ymin>141</ymin>
+      <xmax>47</xmax>
+      <ymax>159</ymax>
+    </bndbox>
+  </object>
+  </annotation>

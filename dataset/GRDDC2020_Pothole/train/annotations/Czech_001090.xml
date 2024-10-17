@@ -1,0 +1,18 @@
+<annotation>
+  <folder>images</folder>
+  <filename>Czech_001090.jpg</filename>
+  <size>
+    <depth>3</depth>
+    <width>600</width>
+    <height>600</height>
+  </size>
+  <object>
+    <name>Pothole</name>
+    <bndbox>
+      <xmin>11</xmin>
+      <ymin>484</ymin>
+      <xmax>102</xmax>
+      <ymax>514</ymax>
+    </bndbox>
+  <difficult>0</difficult></object>
+</annotation>
